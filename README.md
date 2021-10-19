@@ -35,9 +35,9 @@ pip 21.2.4
 
 requests 2.26.0
 beautifulsoup4 4.10.0
-
-scraped URL : (http://www.mi.u-tokyo.ac.jp/6university_consortium.html)
 ```
+scraped URL : http://www.mi.u-tokyo.ac.jp/6university_consortium.html
+
 # Note
 You may not use this program in  web pages which you need to log in.
 
