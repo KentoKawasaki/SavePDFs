@@ -40,7 +40,7 @@ python savepdfs.py
 
 I tested "SavePDFs" in the following environment.
 
-** Environment **
+**Environment**
 
 ```
 Ubuntu 20.04.3 LTS
