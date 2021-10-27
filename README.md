@@ -36,11 +36,8 @@ After you installed the scraping libraries, please run "savepdfs.py".
 python savepdfs.py
 ```
 
-# Test
 
-I tested "SavePDFs" in the following environment.
-
-**Environment**
+# My environment
 
 ```
 Ubuntu 20.04.3 LTS
@@ -53,7 +50,6 @@ lxml 4.6.3
 requests 2.26.0
 ```
 
-I tested SavePDFs with the following URL : http://www.mi.u-tokyo.ac.jp/6university_consortium.html .
 
 # Note
 
