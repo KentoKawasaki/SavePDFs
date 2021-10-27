@@ -39,16 +39,17 @@ python savepdfs.py
 
 # My environment
 
-```
-Ubuntu 20.04.3 LTS
+**OS**
+- Ubuntu 20.04.3 LTS
 
-Python 3.9.7
-pipenv 2021.5.29
+**Python environment**
+- Python 3.9.7
+- pipenv 2021.5.29
 
-beautifulsoup4 4.10.0
-lxml 4.6.3
-requests 2.26.0
-```
+**Libraries**
+- beautifulsoup4 4.10.0
+- lxml 4.6.3
+- requests 2.26.0
 
 
 # Note
