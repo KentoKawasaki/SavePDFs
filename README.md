@@ -2,17 +2,17 @@
 
 "SavePDFs" is a program with Python for downloading pdf files in a web page.
 
-# Features
+## Features
 
 You can download all pdf files in a simple web page by using "SavePDFs".
 
-# Requirement
+## Requirement
 
 - beautifulsoup4
 - lxml
 - requests
 
-# Installation
+## Installation
 
 You need to install libraries; "requests","beautifulsoup4" and "lxml" in order to use "SavePDFs".
 
@@ -28,7 +28,7 @@ Also, you can install the libraries using "requirements.txt"
 pip install -r requirements.txt
 ```
 
-# Usage
+## Usage
 
 After you installed the scraping libraries, please run "savepdfs.py".
 
@@ -37,7 +37,7 @@ python savepdfs.py
 ```
 
 
-# My environment
+## My environment
 
 **OS**
 - Ubuntu 20.04.3 LTS
@@ -52,11 +52,11 @@ python savepdfs.py
 - requests 2.26.0
 
 
-# Note
+## Note
 
 It may be that 'SavePDFs' doesn't work on the web page which you need to log in.
 
-# Author
+## Author
 
 Kento
 
